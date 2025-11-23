@@ -94,7 +94,12 @@ python fitness_coach.py
 4. **Tempo Measurement:** Concentric duration recorded and averaged.
 
 ---
+### 📍 MediaPipe Pose Landmark Reference
+<img width="658" height="373" alt="image" src="https://github.com/user-attachments/assets/45cd0611-a87d-419f-8d44-c565902f0ee0" />
 
+
+
+---
 ## 👤 Author
 
 **👨‍💻 GANESH R**
