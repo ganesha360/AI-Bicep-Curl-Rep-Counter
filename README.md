@@ -33,8 +33,8 @@ A real-time AI fitness assistant that uses computer vision to track bicep curls,
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-bicep-curl-rep-counter.git
-cd ai-bicep-curl-rep-counter
+git clone https://github.com/ganesha360/Ai-Bicep-Curl-Rep-Counter.git
+cd Ai-Bicep-Curl-Rep-Counter
 ```
 
 ### 2️⃣ Create a Virtual Environment (Optional but Recommended)
@@ -61,9 +61,9 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Usage
+## 🤖 Usage
 
-Run the tracker:
+### 🚀 Run the Tracker
 
 ```bash
 python fitness_coach.py
