@@ -98,6 +98,18 @@ python fitness_coach.py
 <img width="658" height="373" alt="image" src="https://github.com/user-attachments/assets/45cd0611-a87d-419f-8d44-c565902f0ee0" />
 
 
+---
+### 📷 Project Output Preview
+
+#### 🖥️ Live Rep Tracking
+<img width="1582" height="810" alt="output" src="https://github.com/user-attachments/assets/bb31c031-b6ca-43ea-9bda-6c1f1c18a491" />
+
+Real-time detection of arm movement, rep counting, and tempo tracking.
+
+#### 💻 Session Summary Output
+<img width="1918" height="1021" alt="output-2" src="https://github.com/user-attachments/assets/bf00d947-6e5f-4bbc-837c-b9123e51f9d7" />
+
+Final exercise report automatically generated after workout completion.
 
 ---
 ## 👤 Author
